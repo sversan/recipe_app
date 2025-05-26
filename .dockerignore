@@ -1,0 +1,15 @@
+# Git
+.Git
+.gitignore
+
+# Docker
+.Docker
+
+# Python
+app/__paycache__/
+app/*/__paycache__/
+app/*/*/__paycache__/
+app/*/*/*/__paycache__/
+.env/
+.venv/
+venv/
